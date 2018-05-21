@@ -18,6 +18,7 @@ class ViewController: NSViewController {
         // Ze Zhang: Just some more code to committ to the
         // Remote and local repositories
         print("Some thing to print out")
+        // Added some more later on
         
     }
 
