@@ -14,6 +14,11 @@ class ViewController: NSViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        
+        // Ze Zhang: Just some more code to committ to the
+        // Remote and local repositories
+        print("Some thing to print out")
+        
     }
 
     override var representedObject: Any? {
